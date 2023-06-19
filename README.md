@@ -1,5 +1,6 @@
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=32&color=3B83BD&lines=Hey+Im+Jos!!+✨;)](https://git.io/typing-svg)
+    <a [![Typing SVG](https://readme-typing-svg.demolab.com/?size=32&color=3B83BD&lines=Hey+Im+Jos!!+✨;)](https://git.io/typing-svg)
+    </a>
 </p>
 ## Use:
 <p align="center">
