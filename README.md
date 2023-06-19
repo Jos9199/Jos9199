@@ -5,8 +5,8 @@
 -    Constantly learning haxe 🤙
 
 <p align="left"> 
- <img src="https://img.shields.io/github/followers/Jos9199?color=2396ED&label=Followers" alt="Jos9199" />  
- <img src="https://img.shields.io/github/stars/Jos9199?style=flat&color=2396ED" />  
+ <img src="https://img.shields.io/github/followers/Jos9199?color=5d9b9b&label=Followers" alt="Jos9199" />  
+ <img src="https://img.shields.io/github/stars/Jos9199?style=flat&color=FF0000" />  
 </p>
   
 ## Use:
@@ -18,7 +18,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&color=FFFFFF&lines=Contact+Me+Guys!!+📫;)](https://git.io/typing-svg)
 - 📫 My Discord Contact: Josッ#8948 
-<p > 
+<p align="left"> 
   <a href="https://twitter.com/9199Jos">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
