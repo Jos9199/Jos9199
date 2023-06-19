@@ -1,6 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?size=32&color=3B83BD&lines=Hey+Im+Jos!!+✨;)](https://git.io/typing-svg)
 
 -    Digital Artist 🎨 | Animator 🔥 | Haxe Coder 👨‍💻
+-    Friday Night Funkin Modder!! 🌟
 -    Constantly learning haxe 🤙 
   
 ## Use:
