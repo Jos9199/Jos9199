@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=32&color=3B83BD&lines=Hey+Im+Jos!!+✨;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=32&color=3B83BD&border=000000&lines=Hey+Im+Jos!!+✨;)](https://git.io/typing-svg)
 
 <!--
 **Jos9199/Jos9199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
