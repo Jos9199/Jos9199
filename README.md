@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Im+Jos!!+✨;)]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=32&color=0000ff&lines=Hey+Im+Jos!!+✨;)]
 (https://git.io/typing-svg)
-### Hi there 👋
 
 <!--
 **Jos9199/Jos9199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
