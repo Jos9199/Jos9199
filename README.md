@@ -2,7 +2,12 @@
 
 -    Digital Artist 🎨 | Animator 🔥 | Haxe Coder 👨‍💻
 -    Friday Night Funkin Modder!! 🌟
--    Constantly learning haxe 🤙 
+-    Constantly learning haxe 🤙
+
+<p align="left"> 
+ <img src="https://img.shields.io/github/followers/Jos9199?color=2396ED&label=Followers" alt="Jos9199" />  
+ <img src="https://img.shields.io/github/stars/Jos9199?style=flat&color=2396ED" />  
+</p>
   
 ## Use:
 <p align="center">
