@@ -1,6 +1,4 @@
-<p align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?size=32&color=3B83BD&lines=Hey+Im+Jos!!+✨;)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=32&color=3B83BD&lines=Hey+Im+Jos!!+✨;)](https://git.io/typing-svg)
 ## Use:
 <p align="center">
   <a href="https://skillicons.dev">
