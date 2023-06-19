@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=32&color=3B83BD&lines=Hey+Im+Jos!!+✨;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?size=32&color=3B83BD&lines=Hey+Im+Jos!!+✨;)](https://git.io/typing-svg)
 
-- 👋 Hi, I'm Jos
-- 🤙 Constantly learning haxe
-- 📫 My Discord Contact: Josッ#8948 
+-    Digital Artist 🎨 | Animator 🔥 | Haxe Coder 👨‍💻
+-    Constantly learning haxe 🤙 
   
 ## Use:
 <p align="center">
@@ -12,6 +11,7 @@
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&color=FFFFFF&lines=Contact+Me+Guys!!+📫;)](https://git.io/typing-svg)
+- 📫 My Discord Contact: Josッ#8948 
 <p > 
   <a href="https://twitter.com/9199Jos">
     <img src="https://skillicons.dev/icons?i=twitter" />
