@@ -9,7 +9,7 @@
  <img src="https://img.shields.io/github/stars/Jos9199?style=flat&color=FF0000" />  
 </p>
   
-## Use:
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&color=FFFFFF&lines=Use:;)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,twitter,haxe,haxeflixel,vscode,=13" />
