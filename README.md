@@ -17,7 +17,7 @@
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&color=FFFFFF&lines=Contact+Me+Guys!!+📫;)](https://git.io/typing-svg)
-- 📫 My Discord Contact: Josッ#8948 
+- 📫 My Discord Contact: Jos#8948 
 <p align="left"> 
   <a href="https://twitter.com/9199Jos">
     <img src="https://skillicons.dev/icons?i=twitter" />
